@@ -2,3 +2,5 @@
 Sawyer Blankneship
 Isabella (Ella) Suchikul 
 Isabelle Bernal
+
+We worked together on Assignment 2: Software Design Specification on the Kilimanjaro Trekker System and have now completed it.
